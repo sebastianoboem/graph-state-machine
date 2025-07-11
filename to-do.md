@@ -1,0 +1,1 @@
+- add other condition such as Vector2 and Vector3
